@@ -1,0 +1,7 @@
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\bin\Debug\Morse Code.exe.config
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\bin\Debug\Morse Code.exe
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\bin\Debug\Morse Code.pdb
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\obj\Debug\Morse Code.csprojResolveAssemblyReference.cache
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\obj\Debug\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\obj\Debug\Morse Code.exe
+C:\Users\99997\Desktop\Programs\Visual Studio\CSharp\Morse Code\Morse Code\obj\Debug\Morse Code.pdb
